@@ -2,7 +2,7 @@
 
 <div align="center">
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🏃 I’m currently learning *Unity3D, Algorithm*  
+🏃 I’m currently learning *Unity3D, Algorithm*  
 📧 My E-mail. csw990714@naver.com  
 😊 My Blog. [https://ch-99.tistory.com/](https://ch-99.tistory.com/)
  
