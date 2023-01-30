@@ -8,4 +8,4 @@
  <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Instagram&logoColor=white"/>
 </a>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=120&section=footer&reversal=true)
+
