@@ -5,14 +5,15 @@
 🏃 I’m currently learning *Unity3D, Algorithm*  
 📧 csw990714@naver.com  
 😊 [https://ch-99.tistory.com/](https://ch-99.tistory.com/)
- 
+ <a href="https://ch-99.tistory.com/">
+ <img src="https://img.shields.io/badge/Tistory-333333?style=flat&logo=Tistory&logoColor=white"/>
+</a>
+  
 <br></br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=csw9907)](https://solved.ac/csw9907)
 
-<a href="https://ch-99.tistory.com/">
- <img src="https://img.shields.io/badge/Tistory-333333?style=flat&logo=Tistory&logoColor=white"/>
-</a>
+
 
 <!-- <a href="https://www.instagram.com/seung_woo_77/">
  <img src="https://img.shields.io/badge/Instagram-555555?style=flat&logo=Instagram&logoColor=white"/>
