@@ -6,8 +6,6 @@
 📧 csw990714@naver.com  
 😊 [https://ch-99.tistory.com/](https://ch-99.tistory.com/)
   
-  <br></br>
-  
  <a href="https://ch-99.tistory.com/">
  <img src="https://img.shields.io/badge/Tistory-333333?style=flat&logo=Tistory&logoColor=white"/>
 </a>
