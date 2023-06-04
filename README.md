@@ -3,8 +3,8 @@
 <div align="center">
   
 🏃 I’m currently learning *Unity3D, Algorithm*  
-📧 My E-mail. csw990714@naver.com  
-😊 My Blog. [https://ch-99.tistory.com/](https://ch-99.tistory.com/)
+📧 csw990714@naver.com  
+😊 [https://ch-99.tistory.com/](https://ch-99.tistory.com/)
  
 <br></br>
 [![Solved.ac
