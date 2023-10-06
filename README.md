@@ -2,7 +2,7 @@
 
 <div align="center">
   
-🏃 I’m currently learning *Unity3D, Algorithm*  
+🏃 I’m currently learning *Unity, Algorithm*  
   
  <a href="https://ch-99.tistory.com/">
  <img src="https://img.shields.io/badge/Tistory-333333?style=flat&logo=Tistory&logoColor=white"/>
