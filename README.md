@@ -2,7 +2,7 @@
 
 <div align="center">
   
-🏃 I’m currently learning *Unity, VR, Algorithm*  
+<!--🏃 I’m currently learning *Unity, VR, Algorithm*   -->
   
  <a href="https://ch-99.tistory.com/">
  <img src="https://img.shields.io/badge/Tistory-333333?style=flat&logo=Tistory&logoColor=white"/>
@@ -18,9 +18,9 @@
  <img src="https://img.shields.io/badge/Instagram-555555?style=flat&logo=Instagram&logoColor=white"/>
 </a>
  -->
-<br></br>
+<!--<br></br>
 <h4>languages and tools:</h4>
 <p > <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="35"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="35" height="35"/> </a> </p>
 😃
-
+ -->
 </div>
