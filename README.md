@@ -1,26 +1,42 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=155&text=ChoiSW99&fontColor=111111&fontSize=40&fontAlignY=35&animation=fadeIn)
 
-<div align="center">
-  
-<!--🏃 I’m currently learning *Unity, VR, Algorithm*   -->
-  
- <a href="https://ch-99.tistory.com/">
- <img src="https://img.shields.io/badge/Tistory-333333?style=flat&logo=Tistory&logoColor=white"/>
-</a>
-  
-<br></br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=csw9907)](https://solved.ac/csw9907)
+# Welcome to My GitHub Profile
 
+Hello! I'm **Seungwoo Choi**. I'm a developer focused on game development and immersive technologies. <br>
+Below are the skills and technologies I have experience with and am currently studying.
 
+## 🔧 Tech Stack
 
-<!-- <a href="https://www.instagram.com/seung_woo_77/">
- <img src="https://img.shields.io/badge/Instagram-555555?style=flat&logo=Instagram&logoColor=white"/>
-</a>
- -->
-<!--<br></br>
-<h4>languages and tools:</h4>
-<p > <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="35"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="35" height="35"/> </a> </p>
-😃
- -->
+<div align="left">
+
+| **Category**                    | **Technologies**                                            |
+|---------------------------------|-------------------------------------------------------------|
+| **🕹 Game Development**          | Unity 3D, C#, Oculus Quest 2, XR Interaction Toolkit, Photon, 뒤끝서버 |
+| **💻 Development Tools**         | Visual Studio, VS Code, IntelliJ IDEA                       |
+| **🔥 Graphics & Visualization**  | C/C++, OpenGL, OpenCV                                       |
+| **📱 Mobile Development**        | Kotlin, Android Studio                                      |
+| **🧠 Machine Learning & Deep Learning** | Python, TensorFlow                                  |
+| **🔄 Version Control**           | Git, GitHub, SourceTree, GitHub Desktop                     |
+
+</div>
+
+## 📚 Currently Learning
+- **Unity & Unreal Engine**
+- **Game Server**
+- **C# & C++**
+- **OpenGL**
+- **Algorithm**
+
+---
+
+Thank you for visiting my GitHub profile! 🚀
+
+<div align="left">
+  <a href="https://ch-99.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-333333?style=flat&logo=Tistory&logoColor=white"/>
+  </a>
+  
+  <br>
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=csw9907)](https://solved.ac/csw9907)
 </div>
