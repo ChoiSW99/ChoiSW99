@@ -29,8 +29,7 @@ Below are the skills and technologies I have experience with and am currently st
 
 ---
 
-Thank you for visiting my GitHub profile! 🚀
-
+<!---
 <div align="left">
   <a href="https://ch-99.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-333333?style=flat&logo=Tistory&logoColor=white"/>
@@ -40,3 +39,4 @@ Thank you for visiting my GitHub profile! 🚀
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=csw9907)](https://solved.ac/csw9907)
 </div>
+--->
